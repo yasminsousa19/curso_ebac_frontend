@@ -1,0 +1,1 @@
+function somar(o,r){return o+r}let numero1=5,numero2=3,resultado=somar(numero1,numero2);console.log("A soma é:",resultado);
