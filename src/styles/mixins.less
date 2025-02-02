@@ -1,0 +1,9 @@
+.responsive(@breakpoint, @rules) {
+    @media screen and (max-width: @breakpoint) {
+        @rules();
+    }
+}
+
+.border-radius(@radius) {
+    border-radius: @radius;
+}
