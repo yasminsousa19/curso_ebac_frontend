@@ -1,0 +1,43 @@
+body {
+  background-color: pink;
+  font-family: Roboto;
+  color: black;
+}
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  font-family: lobster;
+  font-size: 3em;
+}
+main {
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  font-size: 2em;
+  text-align: center;
+}
+button {
+  padding: 16px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 16px;
+  font-size: 1.3em;
+  border-radius: 8px;
+  background-color: green;
+  color: white;
+  font-family: sans-serif;
+}
+input {
+  display: block;
+  margin: 16px auto 0;
+  font-size: 2em;
+  max-width: 120px;
+  border: none;
+  background-color: transparent;
+  text-align: center;
+  color: black;
+  border-bottom: 6px solid green;
+}
